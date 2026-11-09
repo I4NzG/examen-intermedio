@@ -4,10 +4,10 @@ En esta carpeta se encuentran la parte práctica del problema 1. Para el problem
 
 ## Requisitos y reproducción
 
-Para ejecutar el programa se necesita Python 3.10 o posterior, además de `numpy`, `matplotlib` y `mpmath`. Desde la carpeta raíz del repositorio, se puede instalar lo necesario y correrlo así:
+Para ejecutar el programa se necesita Python 3.11 o posterior. Desde la raíz del repositorio, instala el entorno común y ejecuta el experimento así:
 
 ```bash
-python -m pip install numpy matplotlib mpmath
+python -m pip install -r requirements.txt
 python problema-1/experimentos.py --seed 222215025
 ```
 

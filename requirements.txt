@@ -1,0 +1,8 @@
+# Entorno usado para ejecutar los experimentos (Python 3.11 o posterior).
+numpy==2.5.4
+matplotlib==3.11.2
+mpmath==1.4.1
+pandas==3.1.1
+scipy==1.18.1
+scikit-learn==1.9.1
+statsmodels==0.15.0
